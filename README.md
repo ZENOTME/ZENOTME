@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm **ZENOTME**.
+- I'm interested in computer system.
+- my personal blog: [zenotme.tech](https://zenotme.tech/)
+- 📫 How to reach me: st810918843@foxmail.com
 <!--
 **ZENOTME/ZENOTME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
